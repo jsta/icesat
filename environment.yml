@@ -1,0 +1,11 @@
+name: icesat
+channels:
+- conda-forge
+dependencies:
+- python>=3.6.4
+- anaconda
+- pip
+- pandas>=0.24.2
+- matplotlib>=3.0.3
+- basemap
+- h5py
